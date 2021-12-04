@@ -12,6 +12,7 @@
   "author": "jyjokokk",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^8.4.0",
     "tsc": "^2.0.3"
   }
 }
