@@ -1,0 +1,19 @@
+{
+  "short_name": "Tab Cleaner",
+  "name": "Chrome Tab Cleaner",
+  "description": "Simple application for cleaning and managing Chrome tabs",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  }
+}
